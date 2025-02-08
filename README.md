@@ -26,3 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-helix&show_icons=true&locale=en&layout=compact" alt="master-helix" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-helix&" /></p>
+
+
