@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rakshitpandey40@gmail.com**
 
-- ⚡ Fun fact **You can ping me 24x7 for Football Talks and Dark Humour**
+- ⚡ Fun fact **You can ping me 24x7 for Football Talks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
